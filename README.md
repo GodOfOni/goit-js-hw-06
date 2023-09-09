@@ -1,1 +1,1 @@
-# goit-js-hw-06
+https://godofoni.github.io/goit-js-hw-06/
